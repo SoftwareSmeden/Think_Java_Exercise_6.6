@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// Think Java Exercise 6.6
+    // Think Java Exercise 6.6
 
     // String variables.
     String pileOfWord = "qUiibJo";
